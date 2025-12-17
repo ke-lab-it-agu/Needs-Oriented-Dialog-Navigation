@@ -24,7 +24,7 @@ The code supports:
 ├── llm_experiment.py              # LLM-only evaluation
 ├── requirements.txt
 └── README.md
-
+```
 ## Requirements
 
 Python
@@ -33,8 +33,10 @@ Python
 - Python Libraries
   
 Install all required libraries with:
+```text
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
+```
 
 ## OpenAI API Key
 
@@ -50,13 +52,14 @@ OPENAI_API_KEY = "your-api-key-here"
 need_oriented_environmental_knowledge_base.json
 
 Each entry must include:
+```text
 {
   "name": "Thirst",
   "action": "drink water",
   "explain": "the need to hydrate",
   "things": "water glass,mug,bottle"
 }
-
+```
 
 2. Evaluation Excel Files
 RAG-based evaluation
@@ -79,17 +82,17 @@ The scripts automatically write:
 
 3. Run the Script
 
-# RAG-based Evaluation
+## RAG-based Evaluation
 
 This script:
 - Builds embeddings using text-embedding-3-large
 - Indexes needs with FAISS
 - Performs similarity-based retrieval
 - Uses LLM for final object selection
-
+```text
 python rag_experiment.py
-
-# LLM-based Evaluation
+```
+## LLM-based Evaluation
 
 This script:
 - Uses only LLM prompts
