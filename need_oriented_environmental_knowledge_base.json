@@ -1,0 +1,116 @@
+[
+    {"name":"Breathing",
+    "action":"breath,smell,open,blow,wipe,inhale,spray",
+    "explain":"Ensure a clear airway and maintain regular, unimpeded respiration by staying in environments with adequate oxygen levels.",
+    "things":"perfume,ventilation fan,tissue,deodorant"},
+    
+    {"name":"Thirst",
+    "action":"tired,thirsty,fill,pour,drink",
+    "explain":"the desire to replenish the body's water supply when it is depleted",
+    "things":"faucet,sink,water glass,refrigerator,mug,wine glass,coffee maker,coffee pot"},
+
+    {"name":"Hunger",
+    "action":"eat,hungry,cut,fry,boil,bake,heat,pour,cook",
+    "explain":"desire to compensate for lack of energy or nutrients",
+    "things":"banana,slices of bread,cereal,chocolate,bowl of dishes,syrup,condiment bottle,condiment pendulum,cooking pot,cupcake,cutlet,faucet,refrigerator,microwave,minced meat,oven tray,pie,dish,pudding,stove,toaster,table,cupcake,"},
+    
+    {"name":"Sleep",
+    "action":"sleepy,nap,brush,close,lie down,wake",
+    "explain":"desire to give the body and brain a rest through sleep",
+    "things":"curtain,light switch,toothbrush,toothpaste,bed,ceiling lamp,nightstand,pillow,sofa,rug,table lamp,wall lamp"},
+    
+    {"name":"Laziness",
+    "action":"nap,tired,sleepy,lie down,rest,sit,stretch",
+    "explain":"the desire to slack off or take it easy",
+    "things":"bathtub,floor,bed,books,orchid,pillow,sofa,chair,TV,table,computer,CPU screen,rug,television,electric fan,floor"},
+    
+    {"name":"Sensory",
+    "action":"touch,watch,listen,soak,spray,smell",
+    "explain":"desire for pleasure through stimulation of the senses",
+    "things":"bathtub,deodorant,painkiller,perfume,floor"},
+    
+    {"name":"Sexual",
+    "action":"sexual",
+    "explain":"desire for sexuality",
+    "things":"clothes pants,curtain,door,face cream,hair product,perfume,bed,light switch,nightstand,pillow,mobile phone,floor"},
+    
+    {"name":"Nursing",
+    "action":"care,rear,sit,rest,hold,wash,store",
+    "explain":"the baby's need for breast milk",
+    "things":"bathtub,closet,rug,toilet,towel,washing machine,bed,chair,floor,pillow,sofa"},
+    
+    {"name":"Emission",
+    "action":"toilet,wipe,sit,flush,throw",
+    "explain":"the desire to expel unwanted substances from the body",
+    "things":"toilet,toilet paper,tissue,garbage"},
+    
+    {"name":"Toxicity avoidance",
+    "action":"poison,avoid,move,wash,brush,throw",
+    "explain":"desire to avoid inoculation with toxic substances",
+    "things":"toothbrush,toothpaste,deodorant,dishwasher,dishwashing liquid,faucet,ventilation fan,garbage,toilet,sink"},
+    
+    {"name":"Temperature",
+    "action":"turn on,boil,hot,warm,heat,cold,cool",
+    "explain":"Regulate body temperature by adjusting clothing, heating, cooling, or seeking appropriate shelter",
+    "things":"electric fan,water glass,ventilation fan,refrigerator,bathtub,bed,coffee maker,mug,stove"},
+    
+    {"name":"Injury avoidance",
+    "action":"danger,wear,walk,place,rest,keep,check",
+    "explain":"desire to avoid injury and pain",
+    "things":"painkiller,rug,deodorant,slippers"},
+    
+    {"name":"Acquisition",
+    "action":"obtain,money,pick up,purchase,place,set",
+    "explain":"desire to acquire possessions and property",
+    "things":"book,desk,table,chair,CPU screen,keyboard,computer,mouse"},
+    
+    {"name":"Conservance",
+    "action":"collect,fix,care,storage,wash,clean,brush,wash,store,throw",
+    "explain":"to collect, repair, care for, and store things",
+    "things":"soap,bathtub,deodorant,face cream,faucet,power,hanger socket,sink,toilet paper,toothbrush,toothpaste,towel,washing machine,cleaning,floor sponge,mirror,dishwasher,dishwashing liquid,refrigerator,ventilation fan,cleaning sponge,garbage"},
+    
+    {"name":"Order",
+    "action":"neat,organized,tidy,orderly,proper,fold,hang,wipe,clean,sweep,away,store,keep",
+    "explain":"the need to keep things in order, organized, tidy, orderly, and neat",
+    "things":"bathroom counter,closet,closet drawers,hanger,sink,towel rack,wall picture frame,cabinet,pile of clothes,wall,floor shelf,bookshelf,box,folder,refrigerator,kitchen cabinet,kitchen counter,kitchen table,rug,TV stand,garbage"},
+    
+    {"name":"Retention",
+    "action":"possession,store,reluctance to lend,place,keep,apply,check",
+    "explain":"the desire to keep possession of things, to store them, not to lend them",
+    "things":"soap,closet,closet drawers,power socket,toothpaste,toothbrush,face cream,perfume,deodorant,dishwashing liquid,folder,refrigerator,photo frame"},
+    
+    {"name":"Construction",
+    "action":"create,adding,edit,craft,design,style,adjust,place,build,combine,customize,capture",
+    "explain":"the desire to modify things in some way, to create something new",
+    "things":"mirror,photo frame,computer,hair product,orchid"},
+    
+    {"name":"Play",
+    "action":"enjoy,entertainment,seek distraction,watch,sit,play,browse,listen,read,write",
+    "explain":"Engage in recreational activities or hobbies to relax and have fun",
+    "things":"bathtub,private room,rug,books,chair,nightstand,sofa,mobile phone,power socket,TV,wine glass,table,book,keyboard,mouse,mouse pad,television,floor"},
+    
+    {"name":"Cognizance",
+    "action":"explore,question,read,take,research,review,browse,watch,investigate,observe,analyze",
+    "explain":"Seek knowledge and understanding through learning, observation, or exploration",
+    "things":"table,desk,book,computer,mobile phone,TV,television,mirror"},
+    
+    {"name":"Exposition",
+    "action":"point out,illustrate,type,speak,explain,organize,prerare,rehearse,practice,adjust,engage",
+    "explain":"Share ideas, stories, or information with others to communicate and connect",
+    "things":"table,desk,computer,mirror"},
+    
+    {"name":"Achievement",
+    "action":"achieve,goal,task,sit,write,review,read,focus,record,reflect",
+    "explain":"Set and accomplish meaningful goals to feel a sense of progress and success",
+    "things":"book,desk,table,chair,CPU screen,keyboard,computer,mouse"},
+    
+    {"name":"Exhibition",
+    "action":"visual,attention,wash,apply,coordinate,select,fold,style,look",
+    "explain":"Express yourself through art, performance, or other mediums to display talents or identity",
+    "things":"mirror,soap,closet,closet drawers,clothes pants,pile of clothes,clothes shirt,deodorant,face cream,hair product,perfume,mobile phone"},
+    
+    {"name":"Nurturance",
+    "action":"care,protect,help,store,assist,clean",
+    "explain":"Provide care and support to others to foster their well-being and growth",
+    "things":"soap,bathroomcabinet,toothbrush,bed,floor"}
+]
